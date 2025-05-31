@@ -1,0 +1,86 @@
+[
+  {
+    "header": "Software Engineering Section 1",
+    "question": "What are some techniques that support?",
+    "options": [
+      "specification",
+      "program specification",
+      "software",
+      "program"
+    ],
+    "answer": "program specification",
+    "source_sentence": "It includes techniques that support program specification, design, and evolution, none of which are normally relevant for personal software development."
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "question": "What type of system is often more than a single program?",
+    "options": [
+      "professionally developed software",
+      "program",
+      "developed",
+      "software"
+    ],
+    "answer": "professionally developed software",
+    "source_sentence": "A professionally developed software system is often more than a single program."
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "question": "What is the name of the system documentation that explains how to use the system?",
+    "options": [
+      "user documentation",
+      "user",
+      "websites",
+      "documentation"
+    ],
+    "answer": "user documentation",
+    "source_sentence": "It may include system documentation, which describes the structure of the system; user documentation, which explains how to use the system, and websites for users to download recent product information."
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "question": "What do you have to worry about if you are writing a program for yourself?",
+    "options": [
+      "writing program guides",
+      "guides",
+      "documenting",
+      "program"
+    ],
+    "answer": "writing program guides",
+    "source_sentence": "If you are writing a program for yourself, no one else will use it and you don’t have to worry about writing program guides, documenting the program design, etc."
+  },
+  {
+    "header": "consequence of two factors",
+    "question": "What should be written so that it can evolve to meet the changing needs of customers?",
+    "options": [
+      "essential",
+      "Software",
+      "attributes",
+      "maintainability"
+    ],
+    "answer": "Software",
+    "source_sentence": "Essential attributes of a good software Maintainability Software should be written in such a way so that it can evolve to meet the changing needs of customers."
+  },
+  {
+    "header": "Software engineering is important for two reasons",
+    "question": "What is a sequence of activities that leads to the production of a software product?",
+    "options": [
+      "activities",
+      "software process",
+      "software",
+      "process"
+    ],
+    "answer": "software process",
+    "source_sentence": "A software process is a sequence of activities that leads to the production of a software product."
+  },
+  {
+    "header": "software that takes into account",
+    "question": "What techniques do you use for each type of system?",
+    "options": [
+      "different",
+      "different software engineering",
+      "software",
+      "engineering"
+    ],
+    "answer": "different software engineering",
+    "source_sentence": "You use different software engineering techniques for each type of system because the software has quite different characteristics."
+  }
+]

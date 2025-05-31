@@ -1,0 +1,458 @@
+[
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 1,
+    "sentence": "Difference between Software and Computer programs Software engineering is intended to support professional software development, rather than individual programming.",
+    "clean_sentence": "Difference between Software and Computer programs Software engineering is intended to support professional software development, rather than individual programming.",
+    "keywords": [
+      "programs software engineering",
+      "difference software computer",
+      "software computer programs",
+      "software engineering intended",
+      "professional software development"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "programs software engineering",
+      "difference software computer",
+      "software computer programs",
+      "software engineering intended",
+      "professional software development"
+    ],
+    "relevance_score": 0.7307
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 2,
+    "sentence": "It includes techniques that support program specification, design, and evolution, none of which are normally relevant for personal software development.",
+    "clean_sentence": "It includes techniques that support program specification, design, and evolution, none of which are normally relevant for personal software development.",
+    "keywords": [
+      "program specification",
+      "support program specification",
+      "personal software development",
+      "software development",
+      "program specification design"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "program specification",
+      "support program specification",
+      "personal software development",
+      "software development",
+      "program specification design"
+    ],
+    "relevance_score": 0.5277
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 3,
+    "sentence": "Many people think that software is simply another word for computer programs.",
+    "clean_sentence": "Many people think that software is simply another word for computer programs.",
+    "keywords": [
+      "people think software",
+      "think software simply",
+      "software simply word",
+      "software simply",
+      "think software"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "people think software",
+      "think software simply",
+      "software simply word",
+      "software simply",
+      "think software"
+    ],
+    "relevance_score": 0.5319
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 4,
+    "sentence": "However, when we are talking about software engineering, software is not just the programs themselves but also all associated documentation and configuration data that is required to make these programs operate correctly.",
+    "clean_sentence": "However, when we are talking about software engineering, software is not just the programs themselves but also all associated documentation and configuration data that is required to make these programs operate correctly.",
+    "keywords": [
+      "software engineering software",
+      "engineering software",
+      "engineering software just",
+      "software just programs",
+      "programs associated documentation"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software engineering software",
+      "engineering software",
+      "engineering software just",
+      "software just programs",
+      "programs associated documentation"
+    ],
+    "relevance_score": 0.7415
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 5,
+    "sentence": "A professionally developed software system is often more than a single program.",
+    "clean_sentence": "A professionally developed software system is often more than a single program.",
+    "keywords": [
+      "professionally developed software",
+      "software single program",
+      "developed software single",
+      "software single",
+      "single program"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "professionally developed software",
+      "software single program",
+      "developed software single",
+      "software single",
+      "single program"
+    ],
+    "relevance_score": 0.648
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 6,
+    "sentence": "The system usually consists of a number of separate programs and configuration files that are used to set up these programs.",
+    "clean_sentence": "The system usually consists of a number of separate programs and configuration files that are used to set up these programs.",
+    "keywords": [
+      "programs configuration files",
+      "programs configuration",
+      "separate programs configuration",
+      "configuration files used",
+      "configuration files"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "programs configuration files",
+      "programs configuration",
+      "separate programs configuration",
+      "configuration files used",
+      "configuration files"
+    ],
+    "relevance_score": 0.5167
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 7,
+    "sentence": "It may include system documentation, which describes the structure of the system; user documentation, which explains how to use the system, and websites for users to download recent product information.",
+    "clean_sentence": "It may include system documentation, which describes the structure of the system; user documentation, which explains how to use the system, and websites for users to download recent product information.",
+    "keywords": [
+      "user documentation",
+      "user documentation explains",
+      "documentation",
+      "documentation describes",
+      "include documentation describes"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "user documentation",
+      "user documentation explains",
+      "documentation",
+      "documentation describes",
+      "include documentation describes"
+    ],
+    "relevance_score": 0.6109
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 9,
+    "sentence": "If you are writing a program for yourself, no one else will use it and you don’t have to worry about writing program guides, documenting the program design, etc.",
+    "clean_sentence": "If you are writing a program for yourself, no one else will use it and you don’t have to worry about writing program guides, documenting the program design, etc.",
+    "keywords": [
+      "writing program guides",
+      "writing program use",
+      "guides documenting program",
+      "program guides documenting",
+      "writing program"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "writing program guides",
+      "writing program use",
+      "guides documenting program",
+      "program guides documenting",
+      "writing program"
+    ],
+    "relevance_score": 0.5513
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 10,
+    "sentence": "However, if you are writing software that other people will use and other engineers will change then you usually have to provide additional information as well as the code of the program.",
+    "clean_sentence": "However, if you are writing software that other people will use and other engineers will change then you usually have to provide additional information as well as the code of the program.",
+    "keywords": [
+      "additional information code",
+      "information code program",
+      "information code",
+      "writing software",
+      "writing software people"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "additional information code",
+      "information code program",
+      "information code",
+      "writing software",
+      "writing software people"
+    ],
+    "relevance_score": 0.5941
+  },
+  {
+    "header": "Software Engineering Section 1",
+    "sentence_num": 11,
+    "sentence": "Many applications need software engineering; they do not all need the same software engineering techniques.",
+    "clean_sentence": "Many applications need software engineering; they do not all need the same software engineering techniques.",
+    "keywords": [
+      "software engineering need",
+      "applications need software",
+      "engineering need software",
+      "software engineering",
+      "need software engineering"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software engineering need",
+      "applications need software",
+      "engineering need software",
+      "software engineering",
+      "need software engineering"
+    ],
+    "relevance_score": 0.558
+  },
+  {
+    "header": "consequence of two factors",
+    "sentence_num": 6,
+    "sentence": "The specific set of attributes that you might expect from a software system obviously depends on its application.",
+    "clean_sentence": "The specific set of attributes that you might expect from a software system obviously depends on its application.",
+    "keywords": [
+      "attributes expect software",
+      "attributes",
+      "software obviously depends",
+      "attributes expect",
+      "set attributes"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "attributes expect software",
+      "attributes",
+      "software obviously depends",
+      "attributes expect",
+      "set attributes"
+    ],
+    "relevance_score": 0.5285
+  },
+  {
+    "header": "consequence of two factors",
+    "sentence_num": 8,
+    "sentence": "Essential attributes of a good software Maintainability Software should be written in such a way so that it can evolve to meet the changing needs of customers.",
+    "clean_sentence": "Essential attributes of a good software Maintainability Software should be written in such a way so that it can evolve to meet the changing needs of customers.",
+    "keywords": [
+      "software maintainability software",
+      "software maintainability",
+      "maintainability software written",
+      "maintainability software",
+      "good software maintainability"
+    ],
+    "entities": [
+      "Software"
+    ],
+    "answer_candidates": [
+      "Software"
+    ],
+    "relevance_score": 0.5093
+  },
+  {
+    "header": "SFW Engineering",
+    "sentence_num": 1,
+    "sentence": "Software engineering is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use.",
+    "clean_sentence": "Software engineering is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use.",
+    "keywords": [
+      "software engineering engineering",
+      "software engineering",
+      "engineering engineering discipline",
+      "engineering discipline",
+      "engineering discipline concerned"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software engineering engineering",
+      "software engineering",
+      "engineering engineering discipline",
+      "engineering discipline",
+      "engineering discipline concerned"
+    ],
+    "relevance_score": 0.6334
+  },
+  {
+    "header": "Software engineering is important for two reasons",
+    "sentence_num": 3,
+    "sentence": "It is usually cheaper, in the long run, to use software engineering methods and techniques for software systems rather than just write the programs as if it was a personal programming project.",
+    "clean_sentence": "It is usually cheaper, in the long run, to use software engineering methods and techniques for software systems rather than just write the programs as if it was a personal programming project.",
+    "keywords": [
+      "programs personal programming",
+      "write programs personal",
+      "personal programming",
+      "personal programming project",
+      "use software engineering"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "programs personal programming",
+      "write programs personal",
+      "personal programming",
+      "personal programming project",
+      "use software engineering"
+    ],
+    "relevance_score": 0.6176
+  },
+  {
+    "header": "Software engineering is important for two reasons",
+    "sentence_num": 6,
+    "sentence": "A software process is a sequence of activities that leads to the production of a software product.",
+    "clean_sentence": "A software process is a sequence of activities that leads to the production of a software product.",
+    "keywords": [
+      "software process",
+      "software process sequence",
+      "production software product",
+      "software product",
+      "production software"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software process",
+      "software process sequence",
+      "production software product",
+      "software product",
+      "production software"
+    ],
+    "relevance_score": 0.5434
+  },
+  {
+    "header": "activities are",
+    "sentence_num": 1,
+    "sentence": "​ Software specification.",
+    "clean_sentence": "​ Software specification.",
+    "keywords": [
+      "software specification",
+      "specification",
+      "software"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software specification",
+      "specification",
+      "software"
+    ],
+    "relevance_score": 0.5281
+  },
+  {
+    "header": "activities are",
+    "sentence_num": 5,
+    "sentence": "There are many different types of software.",
+    "clean_sentence": "There are many different types of software.",
+    "keywords": [
+      "different types software",
+      "types software",
+      "software",
+      "different types",
+      "types"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "different types software",
+      "types software",
+      "software",
+      "different types",
+      "types"
+    ],
+    "relevance_score": 0.5885
+  },
+  {
+    "header": "software that takes into account",
+    "sentence_num": 6,
+    "sentence": "You use different software engineering techniques for each type of system because the software has quite different characteristics.",
+    "clean_sentence": "You use different software engineering techniques for each type of system because the software has quite different characteristics.",
+    "keywords": [
+      "different software engineering",
+      "use different software",
+      "software quite different",
+      "different software",
+      "software engineering techniques"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "different software engineering",
+      "use different software",
+      "software quite different",
+      "different software",
+      "software engineering techniques"
+    ],
+    "relevance_score": 0.5611
+  },
+  {
+    "header": "software that takes into account",
+    "sentence_num": 9,
+    "sentence": "4 Software engineering fundamentals that apply to all types",
+    "clean_sentence": "Software engineering fundamentals that apply to all types",
+    "keywords": [
+      "software engineering fundamentals",
+      "software engineering",
+      "fundamentals apply types",
+      "engineering fundamentals",
+      "engineering fundamentals apply"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software engineering fundamentals",
+      "software engineering",
+      "fundamentals apply types",
+      "engineering fundamentals",
+      "engineering fundamentals apply"
+    ],
+    "relevance_score": 0.548
+  },
+  {
+    "header": "of software system",
+    "sentence_num": 6,
+    "sentence": "3.​ Understanding and managing the software specification and requirements (what the software should do) are important.",
+    "clean_sentence": "​ Understanding and managing the software specification and requirements (what the software should do) are important.",
+    "keywords": [
+      "software specification requirements",
+      "software specification",
+      "requirements software important",
+      "specification requirements software",
+      "managing software specification"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software specification requirements",
+      "software specification",
+      "requirements software important",
+      "specification requirements software",
+      "managing software specification"
+    ],
+    "relevance_score": 0.5725
+  },
+  {
+    "header": "of software system",
+    "sentence_num": 10,
+    "sentence": "As a software engineer, you must accept that your job involves wider responsibilities than simply the application of technical skills.",
+    "clean_sentence": "As a software engineer, you must accept that your job involves wider responsibilities than simply the application of technical skills.",
+    "keywords": [
+      "software engineer accept",
+      "application technical skills",
+      "software engineer",
+      "technical skills",
+      "simply application technical"
+    ],
+    "entities": [],
+    "answer_candidates": [
+      "software engineer accept",
+      "application technical skills",
+      "software engineer",
+      "technical skills",
+      "simply application technical"
+    ],
+    "relevance_score": 0.5322
+  }
+]
